@@ -6,7 +6,7 @@ paging: Pag %d / %d
 
 # La bestIA: Ni Inteligente Ni Artificial
 
-## Intro
+## Preludio
 - ¿Quiénes somos? ¿Qué hacemos?
 - ¿Por qué estamos acá?
 - Un año de La bestIA ¿Probamos?
@@ -229,10 +229,10 @@ Model Context Protocol (MCP) es un protocolo abierto para integración entre apl
 - [Rag-api](https://github.com/danny-avila/rag_api/pull/59)
 ---
 
-# Preguntas y Respuestas
+# Coda
 
-José Luis Di Biase
-josx@camba.coop
+#### [Cooperativa de trabajo Cambá](https://www.camba.coop)
+#### José Luis Di Biase josx@camba.coop
+#### Carlos Cuoco charlie@camba.coop
 
-Carlos Cuoco
-charlie@camba.coop
+#### PREGUNTAS Y RESPUESTAS
